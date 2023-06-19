@@ -1,1 +1,1 @@
-# Summer-Internship
+# Full Stack Internship
